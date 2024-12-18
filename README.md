@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**mksarvas/mksarvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 - 🔭 I'am currently working as a senior lecture of Digital Services at Haaga-Helia University of Applied Sciences
 - 🌱 I’m currently learning more about Git Hub and copilot
